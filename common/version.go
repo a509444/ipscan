@@ -1,4 +1,4 @@
-package core
+package common
 
 const VERSION = "v0.1.0"
 

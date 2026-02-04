@@ -1,9 +1,9 @@
 package main
 
 import (
-	"ipscan/core"
+	"ipscan/common"
 )
 
 func main() {
-	core.Execute()
+	common.Execute()
 }

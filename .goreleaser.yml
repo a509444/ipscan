@@ -6,7 +6,7 @@ before:
 
 builds:
   -
-    main: ./cmd/ipscan/
+    main: ./
     binary: ipscan
     goos:
       - windows
